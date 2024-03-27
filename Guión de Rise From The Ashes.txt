@@ -11,6 +11,8 @@ Al despertar, el protagonista se encuentra en un mundo irreconocible, lleno de r
 IDEAS MONETARIAS $$$🤑🤑🤑:
 Ingresar un sistema de tienda. al inicio y al final del nivel, se podrá acceder a una tienda en la que se podrá comprar con dinero del juego y dinero real. Usando CLP se podrá comprar equipamiento correspondiente al nivel del personaje, objetos extra y el propio dinero del juego. Usando Crysto (Moneda del juego), Se podrá comprar equipamiento basico, objetos basicos, y ya.
 
+La tienda servirá para vender cierta cantidad de materiales encontrados y recogidos en el mapa por el jugador. (Metales, Carbon, madera.)
+
 Ideas random:
 Cada vez que matemos a un jefe, su alma será liberada de su cuerpo maligno y nos dará consejos y poderes.
 
